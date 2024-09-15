@@ -8,3 +8,9 @@ dd{
   font-size: 2rem;
   font-weight: bold;
 }
+
+td{
+  font-size: 2rem ;
+  font-weight: bold;
+  margin: 25;
+}

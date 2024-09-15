@@ -4,3 +4,9 @@ h1{
 }
 
 li{font-size: 40px;}
+
+button{
+
+  border-start-end-radius: 20;
+  font-size: 20;
+}

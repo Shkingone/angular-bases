@@ -4,14 +4,17 @@ import { CommonModule } from "@angular/common";
 
 @NgModule({
 
-  declarations: [
-  HeroComponent,
-  ],
+  // declarations: [
+  // HeroComponent,
+  // ],
 
-  exports: [
-    HeroComponent
-  ],
+  // exports: [
+  //   HeroComponent
+  // ],
+  // imports:[
 
+  //   CommonModule
+  // ]
 
 })
 export class HeroModule{
